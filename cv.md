@@ -32,3 +32,11 @@ alert( result );
 ***
 
 ### Education
+
+* Universuty: Belarusian State University, Belarusian history
+* Courses: 
+---
+
+### English
+B1
+
